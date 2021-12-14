@@ -14,8 +14,8 @@ Technology used:
      
 Project done by:
 
-    Mathiarasi N (19CSR105)
-    Mythili E(19CSR113)
-    Janani N (19CSR069)
-    Naishad M (19CSR114) 
+    Mohammed asfaq M(19ECR105)
+    Miruthika C(19ECR101)
+    Johnson (19ECR071)
+   
     for... (Kotlin 1 Credit Course project) Kongu Engineering College.
